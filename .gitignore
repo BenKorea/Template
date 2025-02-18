@@ -1,3 +1,4 @@
+# R
 _freeze/
 .Rproj.user
 .Rhistory
@@ -9,3 +10,6 @@ _freeze/
 /.quarto/
 raw_data/
 renv/
+
+# Python
+venv/
